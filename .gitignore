@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.streamlit/
+outputs/*.csv
+outputs/*.json
+.env
+.venv
+env/
+venv/
+.DS_Store
